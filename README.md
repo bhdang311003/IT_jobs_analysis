@@ -18,6 +18,11 @@
 > Update csv_backup from: [Backup_Data](https://drive.google.com/drive/u/0/folders/14Yj5p6biBFBiXYM0dcZYV88EyMJQ45PG)
 - Run all cells in `topdev_preprocess_job_cluster.ipynb` to get `processed_data.csv`
 
+### Features on web application:
+- Recommendation: Apply processing techniques to match jobs with provided keywords.
+- Q&A: Use language models to generate responses based on collected data.
+- Other features: Using models to predict salaries; suggesting CVs (in testing, improving)
+
 ### Deploy web application:
 
 - If testing streamlit successfully, open terminal and run:
