@@ -1,5 +1,8 @@
 # IT-jobs-analysis
 
+## Description:
+- In the project, we collect real-time data on the website topdev.vn, process the data and store it on MongoDB Atlas. From that data, we analyze and visualize it into a dashboard. In addition, we also apply models to process language to exploit data insights.
+
 ## Setup
 
 ### Requirements:
